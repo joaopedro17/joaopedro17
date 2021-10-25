@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**joaopedro17/joaopedro17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just a guy who is trying to learn how to code
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Detailed information
+
+* **Name**: João Pedro
+* **Age**: 22
+* **Living in**: Belo Horizonte, Brazil
+* **University**: Faculdade Estácio de Sá - Dez/2023 - Computer Science
+
+
+## About me
+
+My name is João Pedro. I'm a computer science student, tech lover and gearhead.
+
+I've always liked code but never studied nothing too deep on that subject, now i'm trying to do my firsts projects.
+
+On my free time i'm probably lookin into cars, motorsports or new things on the tech world
