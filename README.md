@@ -15,7 +15,7 @@ I'm just a guy who is trying to learn how to code
 ## Detailed information
 
 * **Name**: João Pedro Luz
-* **Age**: 23
+* **Age**: 24
 * **Living in**: Belo Horizonte, Brazil
 * **University**: Faculdade Estácio de Sá - Dez/2024 - Computer Science
 
