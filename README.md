@@ -24,6 +24,6 @@ I'm just a guy who is trying to learn how to code
 
 My name is João Pedro. I'm a computer science student, tech lover and gearhead.
 
-I've always liked to code but never studied nothing too deep on that subject, now i'm trying to do my firsts projects.
+I'm currently working as Quality Assurance Engineer, here i have some projects 4fun or that i use to study.
 
 On my free time i'm probably looking into cars, motorsports or new things on the tech world
