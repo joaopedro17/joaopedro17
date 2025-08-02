@@ -14,7 +14,7 @@ I'm just a guy who is passionate about technology.
 ## Detailed information
 
 * **Name**: João Pedro Luz
-* **Age**: 25
+* **Age**: 26
 * **Living in**: Belo Horizonte, Brazil
 * **University**: Faculdade Estácio de Sá - Dez/2024 - Computer Science bachelor's degree
 
