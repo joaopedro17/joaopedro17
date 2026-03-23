@@ -39,6 +39,8 @@ A QA Engineer with a passion for building reliable software — from crafting ro
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Rest Assured](https://img.shields.io/badge/Rest_Assured-4CAF50?style=for-the-badge&logoColor=white)
 ![Laravel Dusk](https://img.shields.io/badge/Laravel_Dusk-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![WinAppDriver](https://img.shields.io/badge/WinAppDriver-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
 
 **Non-Functional Testing**
 
@@ -46,6 +48,7 @@ A QA Engineer with a passion for building reliable software — from crafting ro
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Percy](https://img.shields.io/badge/Percy-8B44AC?style=for-the-badge&logoColor=white)
+![axe-core](https://img.shields.io/badge/axe--core-663399?style=for-the-badge&logo=axe&logoColor=white)
 
 **CI/CD & DevOps**
 
@@ -59,6 +62,9 @@ A QA Engineer with a passion for building reliable software — from crafting ro
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 <div align="center">
   <sub>Always building. Always testing. Always shipping.</sub>
