@@ -40,6 +40,46 @@ A QA Engineer with a passion for building reliable software — from crafting ro
 
 ---
 
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <img src="https://raw.githubusercontent.com/joaopedro17/kickstand/main/extension/public/icons/128.png" width="24" align="top" />
+        Kickstand
+      </h3>
+      <p>A browser companion for Kick.com: follow channels, get notified when they go live, and browse live streams without leaving your tab.</p>
+      <p>
+        <img src="https://img.shields.io/amo/v/kickstand?style=flat-square&label=firefox&logo=firefoxbrowser&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://addons.mozilla.org/en-US/firefox/addon/kickstand/"><b>Get the add-on</b></a> ·
+        <a href="https://github.com/joaopedro17/kickstand">Source</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧹 MetaScrub</h3>
+      <p>A cross-platform command-line tool that finds and removes hidden metadata (location, device, author, dates) from photos, videos, audio, documents, and archives before you share them.</p>
+      <p>
+        <img src="https://img.shields.io/github/v/release/joaopedro17/metascrub?style=flat-square&label=release" />
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/fuzz--tested-2EAD33?style=flat-square" />
+        <img src="https://img.shields.io/badge/Linux_%7C_macOS_%7C_Windows-555555?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/joaopedro17/metascrub/releases/latest"><b>Download</b></a> ·
+        <a href="https://github.com/joaopedro17/metascrub">Source</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠 Tech Stack
 
 **Test Automation**
