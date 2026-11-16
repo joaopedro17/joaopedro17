@@ -62,6 +62,25 @@ A QA Engineer with a passion for building reliable software — from crafting ro
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3>
+        <img src="https://raw.githubusercontent.com/joaopedro17/PadPilot/main/assets/padpilot.png" width="24" align="top" />
+        PadPilot
+      </h3>
+      <p>An accessibility tool that lets people with limited range of motion play racing games using only a laptop touchpad. Small finger movements become a virtual Xbox controller stick.</p>
+      <p>
+        <img src="https://img.shields.io/github/v/release/joaopedro17/PadPilot?style=flat-square&label=release" />
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/mutation--tested-2EAD33?style=flat-square" />
+        <img src="https://img.shields.io/badge/Windows_10_%7C_11-555555?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/joaopedro17/PadPilot/releases/latest"><b>Download</b></a> ·
+        <a href="https://github.com/joaopedro17/PadPilot">Source</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🧹 MetaScrub</h3>
       <p>A cross-platform command-line tool that finds and removes hidden metadata (location, device, author, dates) from photos, videos, audio, documents, and archives before you share them.</p>
       <p>
@@ -75,6 +94,7 @@ A QA Engineer with a passion for building reliable software — from crafting ro
         <a href="https://github.com/joaopedro17/metascrub">Source</a>
       </p>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
